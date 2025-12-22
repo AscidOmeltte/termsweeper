@@ -7,3 +7,5 @@ Just download the .deb file and open and install it if your in kde using discove
 
 **Windows**
 Just run the .exe file no installation required as windows isnt a big fan of installing stuff to a terminal.
+
+**After install** On debian just type "termsweeper" into your desired terminal and on windows just double click the .exe file
