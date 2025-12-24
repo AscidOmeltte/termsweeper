@@ -7,7 +7,7 @@
    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚═╝    ╚═══════╝╚═╝  ╚═╝
 ```       
 # termsweeper
-A Minesweeper clone for Debian based terminals in C++
+A Minesweeper clone for most linux/windows terminals in C++ (No macos support)
 
 # install
 **Debian**
